@@ -26,7 +26,7 @@ php src/CartCommandController.php
 to simulate a digital cart. 
 All Products and Discounts examples provided in the assignment are hard-coded in `fixtures/products.json` and `fixtures/discounts.json` to simulate a database. Is is possible to add or remove Products and Discounts to change the Cart behavior or to simply have a wider range of product.
 
-I developed this app following DDD principles, it's definitely overkill for the size of the app but I got exited at the idea of implementing DDD from scratch so I did it! 
+I developed this app following DDD principles, it's definitely overkill for the size of the app but I got exited at the idea of implementing DDD from scratch!
 
 ---
 
