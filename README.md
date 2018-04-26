@@ -1,4 +1,4 @@
-#Cart Discount App
+# Cart Discount App
 
 The app was developed and tested using PHP 7.2 and the only dependency is Phpunit 7.1
 
