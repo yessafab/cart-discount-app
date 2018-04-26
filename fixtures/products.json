@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "sku" : "9325336130810",
+            "title": "Game of Thrones: Season 1",
+            "price": 3949
+        },
+        {
+            "sku": "9325336028278",
+            "title": "The Fresh Prince of Bel-Air",
+            "price": 1999
+        },
+        {
+            "sku": "9780201835953",
+            "title": "The Mythical Man-Month",
+            "price": 3187
+        },
+        {   "sku": "9781430219484",
+            "title": "Coders at Work",
+            "price": 2872
+        },
+        {
+            "sku": "9780132071482",
+            "title": "Artificial Intelligence",
+            "price": 11992
+        }
+    ]
+}

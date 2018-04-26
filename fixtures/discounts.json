@@ -1,0 +1,28 @@
+{
+    "discounts": [
+        {
+            "id": 1,
+            "product_sku" : "9325336130810",
+            "promoted_product_sku": "9325336028278",
+            "discount_type": "free_item",
+            "min_quantity": 1,
+            "discounted_product_price": 1999
+        },
+        {
+            "id": 2,
+            "product_sku": "9780201835953",
+            "promoted_product_sku": "9780201835953",
+            "discount_type": "price",
+            "min_quantity": 10,
+            "discounted_product_price": 2199
+        },
+        {
+            "id": 3,
+            "product_sku": "9781430219484",
+            "promoted_product_sku": "9781430219484",
+            "discount_type": "free_same_item",
+            "min_quantity": 3,
+            "discounted_product_price": 2872
+        }
+    ]
+}
